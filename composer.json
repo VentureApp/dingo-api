@@ -1,5 +1,5 @@
 {
-    "name": "dingo/api",
+    "name": "ventureapp/dingo-api",
     "description": "A RESTful API package for the Laravel and Lumen frameworks.",
     "keywords": [
         "api",
@@ -52,11 +52,6 @@
     "autoload-dev": {
         "psr-4": {
             "Dingo\\Api\\Tests\\": "tests/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
         }
     },
     "minimum-stability": "dev",
